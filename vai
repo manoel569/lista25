@@ -1,0 +1,15 @@
+#EXTM3U
+#EXINF:-1,A&E
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/aemundo_c28aca23_6d1de22f32731453cc4aa716bafc19a9691f7016/playlist.m3u8
+#EXINF:-1,CINEMAX
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/cinemax720p_49117359_70f33e0e8c51281141f5ca50a20afc05f74ab8dd/playlist.m3u8
+#EXINF:-1,FOX
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/fox_5a5b0f9b_9948cd455f1a9ec2ae4e7dbe4f1e5c0ac4a03beb/playlist.m3u8
+#EXINF:-1,HBO2
+http://edge-aws.aovivo.club/hls/s:78.47.3.135/hbo2720p_05a53e36_78972bcd74d2027f06044f7121e846c08d00a336/playlist.m3u8
+#EXINF:-1,MAX PRIME
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/maxprime_9c676e00_b5a88a097ee8d6b6274972d2122b51552f8cbbda/playlist.m3u8
+#EXINF:-1,TELECINE ACTION
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/telecineaction_be057d4c_b17db376ab4f54a27fb6a248484baaaf60a032c6/playlist.m3u8
+#EXINF:-1,TELECINE PIPOCA
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/telecinepipoca_fd937516_e99d2404d55d3ca74c4f3349f0f8da943a1588e4/playlist.m3u8
